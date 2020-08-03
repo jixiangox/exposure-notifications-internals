@@ -10,4 +10,4 @@
 
 {1}[彰化縣政府衛生局疫調資料](https://www.chinatimes.com/realtimenews/20200801002550-260405?chdtv)
 
-{2}[指揮中心疫調資料8/1]（https://www.cdc.gov.tw/File/Get/9cdxsszTtuuccjbb3rVoAw）
+{2}[指揮中心疫調資料8/1](https://www.cdc.gov.tw/File/Get/9cdxsszTtuuccjbb3rVoAw）
