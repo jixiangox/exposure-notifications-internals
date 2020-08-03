@@ -81,7 +81,7 @@ public class BleAdvertisementGenerator implements BleKeyGenerator {
             // bit 7:6 - major version
             // bit 5:4 - minor version
             // bit 3:2 - transmit power calibration confidence
-            // bit 1:0 - reserved
+            // bit 1:0 - ble relationship (11: paring 10: bonding 01: not-bonding 00: not specific)
             return (byte)
                     (VERSION_1_1
                             | ((ContactTracingFeature.calibrationConfidence()

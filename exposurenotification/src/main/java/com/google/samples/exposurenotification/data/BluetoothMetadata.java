@@ -42,7 +42,7 @@ public abstract class BluetoothMetadata {
     // Bits 7:6 = major version
     // Bits 5:4 = minor version
     // Bits 3:2 = transmit power calibration confidence (added in v1.1)
-    // Bits 1:0 = reserved
+    // Bits 1:0 = ble relationship (11: paring 10: bonding 01: not-bonding 00: not specific)
     public abstract byte version();
 
     public abstract byte txPower();
